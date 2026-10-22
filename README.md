@@ -13,7 +13,7 @@ HostelHub
 
 Technologies Used
 
-- rontend:[HTML, CSS, JavaScript / React]
+- Frontend:[HTML, CSS, JavaScript / React]
 - Backend:[Node.js / Express / Other]
   Database:[MongoDB / MySQL / Other]
   Tools:Visual Studio Code, Git, GitHub
