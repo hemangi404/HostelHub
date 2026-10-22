@@ -1,29 +1,27 @@
-# 🏨 HostelHub
+HostelHub
 
 **HostelHub** is a hostel management platform designed to make hostel-related tasks easier for students and administrators.
+ Features
 
-## ✨ Features
+ Hostel information and room details
+ Student management
+ Room availability and allocation
+ Hostel registration and booking
+ Easy access to hostel-related information
 
-- 🏠 Hostel information and room details
-- 👥 Student management
-- 🛏️ Room availability and allocation
-- 📝 Hostel registration and booking
-- 📋 Easy access to hostel-related information
 
-*Note: Update this list to match the features actually implemented in your project.*
 
-## 🛠️ Technologies Used
+Technologies Used
 
-- **Frontend:** [HTML, CSS, JavaScript / React]
-- **Backend:** [Node.js / Express / Other]
-- **Database:** [MongoDB / MySQL / Other]
-- **Tools:** Visual Studio Code, Git, GitHub
+- rontend:[HTML, CSS, JavaScript / React]
+- Backend:[Node.js / Express / Other]
+  Database:[MongoDB / MySQL / Other]
+  Tools:Visual Studio Code, Git, GitHub
 
-*Replace these examples with the technologies your project actually uses.*
 
-## 🚀 Getting Started
+Getting Started
 
-### Prerequisites
+Prerequisites
 
 Install the required tools for your project, such as Node.js and npm, if applicable.
 
@@ -53,7 +51,7 @@ Install the required tools for your project, such as Node.js and npm, if applica
    npm run dev
    ```
 
-## 📁 Project Structure
+Project Structure
 
 ```text
 HostelHub/
@@ -63,18 +61,17 @@ HostelHub/
 └── README.md
 ```
 
-*Adjust this structure to match your actual folders and files.*
 
-## 🎯 Project Objective
+Project Objective
 
 The objective of HostelHub is to provide a convenient platform for managing hostel information and simplifying the hostel experience for students and administrators.
 
-## 👩‍💻 Author
+Author
 
-**Hemangi**
+Hemangi
 
 GitHub: [@hemangi404](https://github.com/hemangi404)
 
-## 📄 License
+ License
 
 This project is intended for educational and learning purposes unless otherwise specified.
